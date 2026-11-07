@@ -1,1 +1,0 @@
-# pid algorithm but im stupid so im only gonna do the p
