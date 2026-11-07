@@ -684,7 +684,7 @@
         "uuid": "50ea1030-74de-4fbc-8cc0-fddbb611582c"
       }
     ],
-    "used_designators": "#FLG1-4,#PWR7-11",
+    "used_designators": "#FLG1-4,#PWR7-12,J6",
     "variants": []
   },
   "sheets": [
