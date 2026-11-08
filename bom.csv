@@ -14,4 +14,6 @@
 "USB power bank 5000mAh","1","Core Electronics","AD0505B","26.95","26.95","powers the demo untethered at the showcase"
 "Bambu Lab PLA 1.75mm 1kg (pick colour)","1","Core Electronics","CE10563","35.99","35.99","prints the body tube, stand + pivot, gimbal rings, servo mounts and nose cone (~500g incl. reprints)"
 "Controller PCB 2-layer 36x56mm (5 pcs)","1","JLCPCB","controller-gerbers.zip","20.00","20.00","custom carrier board for the Pico, IMU and servos (estimate, check JLC quote + shipping)"
-"TOTAL","","","","","367.64","plus Core shipping (quoted at checkout)"
+"QX-Motor 30mm 6-blade EDF + QF1611-7000KV motor + 20A ESC","1","QX-Motor (AliExpress, 2nd shop TBD)","","50.00","50.00","thrust so the rocket actually balances itself on the pivot; 3S rated (~11A, 220g thrust at 11.1V) so it runs off the 12V supply (est. from ~33 USD)"
+"12V 15A DC power supply","1","TBD","","TBD","TBD","powers the EDF at the showcase without a lipo; 15A leaves headroom over the fan's ~11A"
+"TOTAL","","","","","417.64","plus 12V supply (TBD) and shipping"
