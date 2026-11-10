@@ -20,7 +20,6 @@ gimbal
 pcb
 
 ![pcb](img/pcb.png)
-![wiring](img/wiring.png)
 
 files
 
