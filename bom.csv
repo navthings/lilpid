@@ -22,5 +22,5 @@
 "Controller PCB 2-layer 36x56mm (5 pcs)","1","JLCPCB","controller-gerbers.zip","20.00","20.00","https://jlcpcb.com","my carrier board for the Pico, IMU, servos and ESC (estimate, upload controller/controller-gerbers.zip for the real quote)"
 "QX-Motor 30mm 6-blade EDF + QF1611-7000KV motor + 20A 2-3S ESC","1","QX-Motor (qx-motor.com)","","50.00","50.00","https://www.qx-motor.com/products/qx-motor-30mm-edf-ducted-fan-with-20a-esc-2s-3s-4s-for-miniature-model-aircraft","thrust so the rocket balances itself on the pivot; 220g at 11.1V flat out, rated for 60s at full power so it runs at half throttle or less (est. from ~33 USD)"
 "uxcell M2 15mm ball joint rod ends (4 pack option)","1","Amazon AU","B07Q2XS8RT","12.00","12.00","https://www.amazon.com.au/dp/B07Q2XS8RT","pushrod ends between the servo horns and the gimbal tabs; ball joints because the inner ring's rod has to twist when the outer ring tilts. 15mm ones, 19mm are too long for rod A (price is an estimate, pick the 4PCS M2 15mm option)"
-"uxcell M2 x 250mm fully threaded rod (4 pack)","1","Amazon AU","B0FNM5Y5ZW","18.99","18.99","https://www.amazon.com.au/dp/B0FNM5Y5ZW","cut into the two pushrods that screw into the ball joints"
-"TOTAL","","","","","579.28","","plus shipping"
+"uxcell M2 x 16mm fully threaded rod (10 pack, pick the M2x0.4mmx16mm size)","1","Amazon AU","B0H4F287JS","15.00","15.00","https://www.amazon.com.au/dp/B0H4F287JS","the two pushrods, already the right length, screw straight into the ball joints (price is an estimate)"
+"TOTAL","","","","","575.29","","plus shipping"
